@@ -1,3 +1,4 @@
+📊 Data-driven analysis of evolving analyst roles in IT services
 # Evolving Role of Analysts in IT Services: A Data and Market Driven Study
 
 ## Overview
@@ -36,7 +37,7 @@ Role classification into:
 **Role Distribution:**  
   Engineering (~38%) and Data Science (~32%) roles dominate the dataset, while Analyst roles (~20%) form a distinct segment focused on business insights  
 
-  **Compensation Trends:**  
+**Compensation Trends:**  
 Analyst roles (~$93K average) offer lower compensation compared to Engineering (~$110K) and Data Science (~$115K), highlighting a premium on specialized technical roles  
 
   **Experience Patterns:**  
