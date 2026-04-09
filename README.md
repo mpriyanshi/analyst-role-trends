@@ -1,5 +1,3 @@
-# analyst-role-trends
-Data and market driven analysis of evolving analyst roles in IT services
 # Evolving Role of Analysts in IT Services: A Data and Market Driven Study
 
 ## Overview
