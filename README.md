@@ -37,7 +37,7 @@ Role classification into:
   Engineering (~38%) and Data Science (~32%) roles dominate the dataset, while Analyst roles (~20%) form a distinct segment focused on business insights  
 
   **Compensation Trends:**  
-  Analyst roles (~$93K average) offer lower compensation compared to Engineering (~$110K) and Data Science (~$115K), highlighting a premium on specialized technical roles  
+Analyst roles (~$93K average) offer lower compensation compared to Engineering (~$110K) and Data Science (~$115K), highlighting a premium on specialized technical roles  
 
   **Experience Patterns:**  
   ~80% of analyst roles are concentrated at mid and senior levels, indicating increasing expectations for experience and domain knowledge  
