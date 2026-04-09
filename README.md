@@ -65,6 +65,15 @@ README.md # Project documentation
 This project highlights the evolving nature of analyst roles, emphasizing the shift toward hybrid skillsets that combine technical proficiency with business understanding. It demonstrates how data analysis can be used to derive actionable insights relevant to workforce strategy and market trends.
 
 ---
+# visualizations
+### Role Distribution
+![Role Distribution](global_role_distribution.png)
+
+### Salary Comparison
+![Salary Comparison](salary_comparison.png)
+
+### India Role Distribution
+![India Role Distibution](india_role_distribution.png)
 
 ## Author
 **Priyanshi Makkar**  
